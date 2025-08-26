@@ -34,9 +34,3 @@
 - Portfolio: *coming soon*
 
 ---
-
-<!-- Optional: GitHub stats (feel free to remove if you prefer minimal) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username" height="160" />
-</p>
