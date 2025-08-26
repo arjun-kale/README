@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:connectwitharjun7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://github.com/arjun-kale"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@your--username-black?logo=github"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=your-username&label=Views&color=0e75b6&style=flat" />
 </p>
 
 ---
