@@ -17,7 +17,7 @@ My expertise includes:
 - ⚡ Automation and scripting with shell scripts  
 - 🌱 Continuously learning and exploring new technologies in **Web Development**, **App Development**, and **AI**  
 - 🎓 Currently pursuing a degree in Computer Science  
-- 📩 Reach me at: **[arjun@proton.me](mailto:arjun@proton.me)**  
+- 📩 Reach me at: **[connectwitharjun7@gmail.com](mailto:connectwitharjun7@gmail.com)**  
 - 🌐 Portfolio: *Coming Soon*  
 
 ---
