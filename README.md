@@ -29,7 +29,7 @@
 
 ### 🤝 Let’s Connect
 - Email: **connectwitharjun7@gmail.com**  
-- • Instagram: [@_arjunkale777](#)  
+- • Instagram: [_arjunkale777](#)  
 - Portfolio: *coming soon*
 
 ---
