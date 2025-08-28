@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:connectwitharjun7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://github.com/arjun-kale"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@arjun-kale-black?logo=github"></a>
 </p>
 
 ---
