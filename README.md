@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate **CS Student** with a strong foundation in **Web Development** and **Database Management**.  
+I'm a passionate **CS Student** with a strong foundation in **Web Backend Developer** and **RAG Application**.  
 My expertise includes:
 
 - 🚀 Building modern web applications  
